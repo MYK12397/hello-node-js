@@ -1,2 +1,1 @@
- //this is just to show changes
- console.log("Hello World\n");
+console.log("Hello World\n");
